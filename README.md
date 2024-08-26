@@ -1,4 +1,4 @@
-## IntelliLift RoboNavigator
+## IntelliLift RoboNavigator (Work in Progress)
 An advanced robotics project that integrates a robotic arm mounted on a mobile platform to autonomously detect, navigate towards, and manipulate objects based on natural language commands. This project leverages state-of-the-art technologies in robotics, computer vision, and natural language processing to create a seamless and intelligent system for object handling and navigation.
 
 ## Key Features:
